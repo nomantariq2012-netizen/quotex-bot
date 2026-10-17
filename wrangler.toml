@@ -1,3 +1,3 @@
 name = "quotex-bot"
-main = "bot.py"
+main = "bot.js"
 compatibility_date = "2026-10-17"
